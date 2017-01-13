@@ -1,0 +1,1 @@
+base是一个基于ssm搭建的web基本框架，使用mybatis的通用mapper和通用service
